@@ -9,9 +9,9 @@ authors:
   - name: "TODO: add remaining authors"
 version: 1.0.0
 date-released: "2026-TODO"
-repository-code: "TODO"
-url: "TODO"
-doi: "TODO"
+repository-code: "https://github.com/juanmarcosmoreno-arch/seh-IS655-CC1-ST1"
+url: "https://github.com/juanmarcosmoreno-arch/seh-IS655-CC1-ST1"
+doi: "10.5281/zenodo.21066330"
 abstract: >
   Scripts, analysis commands, metadata and processed data supporting the manuscript
   "The seh enterotoxin gene resides in a conserved IS655-like genomic module in
