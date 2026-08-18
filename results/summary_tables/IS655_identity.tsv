@@ -1,0 +1,3 @@
+feature	n	query_lengths_bp	mean_pident_vs_23EV612	min_pident_vs_23EV612	max_pident_vs_23EV612	n_identical_to_23EV612
+spacer	46	653	99.914	99.694	100.000	21
+seh	46	726	99.997	99.862	100.000	45

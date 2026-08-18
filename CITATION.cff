@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Genomic analysis of the seh–IS655-like module in Staphylococcus aureus CC1/ST1"
+type: software
+authors:
+  - family-names: "Moreno"
+    given-names: "Juan"
+    orcid: "TODO"
+  - name: "TODO: add remaining authors"
+version: 1.0.0
+date-released: "2026-TODO"
+repository-code: "TODO"
+url: "TODO"
+doi: "TODO"
+abstract: >
+  Scripts, analysis commands, metadata and processed data supporting the manuscript
+  "The seh enterotoxin gene resides in a conserved IS655-like genomic module in
+  Staphylococcus aureus CC1/ST1", submitted to FEMS Microbiology Letters.
+keywords:
+  - Staphylococcus aureus
+  - ST1
+  - CC1
+  - bovine mastitis
+  - enterotoxin
+  - seh
+  - IS655
+  - insertion sequence
+  - mobile genetic element
+  - comparative genomics
+license: MIT

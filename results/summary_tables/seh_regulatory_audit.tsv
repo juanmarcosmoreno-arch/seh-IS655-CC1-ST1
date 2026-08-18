@@ -1,0 +1,47 @@
+sample_id	upstream_length_bp	nt_differences_vs_23EV612	upstream_variant_positions	candidate_rbs_start_in_upstream	candidate_rbs_sequence	candidate_rbs_mismatches_to_AGGAGG	rbs_to_start_distance_bp	candidate_minus35_start	candidate_minus35_sequence	candidate_minus10_start	candidate_minus10_sequence	interpretation
+cepa_17_barcode01	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+cepa_21_barcode03	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+cepa_30_barcode06	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+cepa_52_barcode09	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+cepa_98_barcode16	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+cepa_107_barcode19	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+cepa_202_barcode21	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+23EV612	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCF_051990345.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCF_051990445.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCF_051990565.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1822_S7_L001	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B916_S394	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1180_S15	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1055_S447	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B414_S153	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+LIC683_S687	653	1	194	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B935_S407	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1512_S573	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1281_S57	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1247_S43	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1254_S46	653	1	194	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1225_S36	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B842_S737	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1611_S419	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1275_S53	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1572_S384	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1237_S41	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B715_S678	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+LIC673_S677	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+B1287_S62	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_024360105.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_024360085.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_024360145.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_030734435.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_030725665.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_029415515.1	653	2	116,651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_054561055.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_054558875.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_042841285.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_042841385.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_042840485.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_042841405.1	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+cepa_18_barcode02	653	1	651	642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_001680935.1	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference
+GCA_001681155.1	653	0		642	AGGAGT	1	6	594	TTAAAA	616	TATAAT	Candidate motifs only; no expression inference

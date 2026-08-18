@@ -1,0 +1,6 @@
+method	left_breakpoint	right_breakpoint	coordinate_system	corrected_p	minimum_or_envelope_segment_bp	concordance
+structural ancestry markers	14935-15115	21065-24615	cepa18 normalized window	NA	5951-9681	broad structural bounds
+3SEQ	15459-15479	20904-20913	cepa18 normalized window	8.579801e-265 Dunn-Sidak	5218	brackets complete module
+GENECONV gscale=0	15460	20891	cepa18 normalized window; envelope of three adjacent zero-mismatch fragments	best BC KA 9.93e-95; permutation <1/10001	5432	within structural bounds and nearly identical to 3SEQ limits
+Fisher ancestry enrichment	pre-specified anchor interval	pre-specified anchor interval	cepa18 normalized window	<1e-300	NA	independent site enrichment
+RDP5	NA	NA	NA	not run	NA	not assessed

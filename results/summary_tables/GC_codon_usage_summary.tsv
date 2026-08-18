@@ -1,0 +1,3 @@
+locus	locus_tag	gc3_pct	core_n	n_core_below	percentile_lower	pct_core_genes_with_higher_gc3	sentence
+seh	VOSS23EV612_01821	15.7025	2752	93	3.38	96.62	seh GC3 (15.7%) was lower than 96.6% of core genome CDS (ranked 94/2752; 3.4th percentile)
+IS3 transposase	VOSS23EV612_01822	20.4762	2752	763	27.73	72.27	IS3 transposase GC3 (20.5%) was lower than 72.3% of core genome CDS (ranked 764/2752; 27.7th percentile)

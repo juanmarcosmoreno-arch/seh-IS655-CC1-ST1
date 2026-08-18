@@ -1,0 +1,49 @@
+sample_id	accession	tree_phylo_group	st	host	source	country	year	seh_present	formal_locus_status	seh_contig	seh_start	seh_end	seh_strand	nearest_is3_start	nearest_is3_end	nearest_is3_strand	is3_seh_coordinate_gap_bp	between_features_sequence_length_bp	tree_tip_y	assembly_technology	assembly_source
+GCA_042841385.1	GCA_042841385.1	Non-bovine ST1	ST1	Homo sapiens	urine	China:Shanghai	2017	TRUE	ok	contig_2	57525	58250	+	56242	56871	-	654	653	48	Illumina-only	NCBI assembly directo
+GCF_051990565.1	GCF_051990565.1	China ST1 bovine	ST1	not_available	bulk tank milk	China: Shanghai	2018	TRUE	ok	contig_2	620219	620944	+	618936	619565	-	654	653	47	Illumina-only	NCBI assembly directo
+GCF_051990445.1	GCF_051990445.1	China ST1 bovine	ST1	not_available	bulk tank milk	China: Shanghai	2018	TRUE	ok	contig_1	619835	620560	+	618552	619181	-	654	653	46	Illumina-only	NCBI assembly directo
+GCF_051990345.1	GCF_051990345.1	China ST1 bovine	ST1	not_available	bulk tank milk	China: Shanghai	2018	TRUE	ok	contig_6	1669	2394	+	386	1015	-	654	653	45	Illumina-only	NCBI assembly directo
+GCF_051259035.1	GCF_051259035.1	China ST1 bovine	ST1	not_available	bulk tank milk	China: Shanghai	2018	TRUE	seh_at_contig_edge	contig_2526	1	726	+						44	Illumina-only	NCBI assembly directo
+cepa_107_barcode19		Uruguay ST1 bovine	ST1	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_1	1915565	1916290	-	1916944	1917573	+	654	653	43	ONT-only	local Flye+Medaka
+cepa_202_barcode21		Uruguay ST1 bovine	ST1	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_1	1915566	1916291	-	1916945	1917574	+	654	653	42	ONT-only	local Flye+Medaka
+cepa_30_barcode06		Uruguay ST1 bovine	ST1	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_1	1914189	1914914	-	1915568	1916197	+	654	653	41	ONT-only	local Flye+Medaka
+cepa_98_barcode16		Uruguay ST1 bovine	ST1	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_1	233276	234001	+	231993	232622	-	654	653	40	ONT-only	local Flye+Medaka
+cepa_52_barcode09		Uruguay ST1 bovine	ST1	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_1	1915954	1916679	-	1917333	1917962	+	654	653	39	ONT-only	local Flye+Medaka
+cepa_21_barcode03		Uruguay ST1 bovine	ST1	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_1	2025257	2025982	-	2026636	2027265	+	654	653	38	ONT-only	local Flye+Medaka
+cepa_17_barcode01		Uruguay ST1 bovine	ST1	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_4	3229	3954	+	1946	2575	-	654	653	37	ONT-only	local Flye+Medaka
+GCA_029415515.1	GCA_029415515.1	Non-bovine ST1	ST1		Sus scrofa	Spain	2021-10-04	TRUE	ok	contig_1	284036	284761	+	282753	283382	-	654	653	36	Illumina-only	NCBI assembly directo
+B935_S407	SRR29758790	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	57912	58637	+	56629	57258	-	654	653	35	Illumina-only	NCBI SRA reads reensambladas localmente
+B414_S153	SRR29758407	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	429062	429787	-	430441	431070	+	654	653	34	Illumina-only	NCBI SRA reads reensambladas localmente
+B1237_S41	SRR29758888	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	284622	285347	+	283339	283968	-	654	653	33	Illumina-only	NCBI SRA reads reensambladas localmente
+B1225_S36	SRR29758893	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	428131	428856	-	429510	430139	+	654	653	32	Illumina-only	NCBI SRA reads reensambladas localmente
+B1281_S57	SRR29758872	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_3	57602	58327	+	56319	56948	-	654	653	31	Illumina-only	NCBI SRA reads reensambladas localmente
+B1611_S419	SRR29758423	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	285624	286349	-	287003	287632	+	654	653	30	Illumina-only	NCBI SRA reads reensambladas localmente
+LIC683_S687	SRR29758914	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	57604	58329	+	56321	56950	-	654	653	29	Illumina-only	NCBI SRA reads reensambladas localmente
+GCA_001681155.1	GCA_001681155.1	Australia ST1 bovine	ST1	Bovine	milk filter	Australia: Victoria	2014	TRUE	ok	contig_13	68533	69258	-	69912	70541	+	654	653	28	Illumina-only	NCBI assembly directo
+B1287_S62	SRR29758696	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_3	428059	428784	-	429438	430067	+	654	653	27	Illumina-only	NCBI SRA reads reensambladas localmente
+B916_S394	SRR29759131	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	57603	58328	+	56320	56949	-	654	653	26	Illumina-only	NCBI SRA reads reensambladas localmente
+B1572_S384	SRR29758644	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	427883	428608	-	429262	429891	+	654	653	25	Illumina-only	NCBI SRA reads reensambladas localmente
+GCF_041729565.1	GCF_041729565.1	New Zealand ST1 bovine	ST1	Bos taurus	milk	New Zealand: Te Kuiti	2020	TRUE	seh_at_contig_edge	contig_1781	1	726	+						24	hybrid	NCBI assembly directo
+23EV612	CP160024	New Zealand ST1 bovine	ST1	Bos taurus	milk/mastitis	New Zealand	2023	TRUE	ok	contig_1	1884415	1885140	-	1885794	1886423	+	654	653	23	hybrid	NCBI assembly directo
+B715_S678	SRR29758568	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	57615	58340	+	56332	56961	-	654	653	22	Illumina-only	NCBI SRA reads reensambladas localmente
+B1247_S43	SRR29758886	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	57603	58328	+	56320	56949	-	654	653	21	Illumina-only	NCBI SRA reads reensambladas localmente
+B1822_S7_L001	SRR29759017	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	453711	454436	+	452428	453057	-	654	653	20	Illumina-only	NCBI SRA reads reensambladas localmente
+B1180_S15	SRR29759077	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	429073	429798	-	430452	431081	+	654	653	19	Illumina-only	NCBI SRA reads reensambladas localmente
+B1512_S573	SRR29758869	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	429119	429844	-	430498	431127	+	654	653	18	Illumina-only	NCBI SRA reads reensambladas localmente
+B1254_S46	SRR29758882	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	284636	285361	+	283353	283982	-	654	653	17	Illumina-only	NCBI SRA reads reensambladas localmente
+B1055_S447	SRR29759140	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	312044	312769	-	313423	314052	+	654	653	16	Illumina-only	NCBI SRA reads reensambladas localmente
+B842_S737	SRR29758539	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_1	284256	284981	+	282973	283602	-	654	653	15	Illumina-only	NCBI SRA reads reensambladas localmente
+LIC673_S677	SRR29758702	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	57603	58328	+	56320	56949	-	654	653	14	Illumina-only	NCBI SRA reads reensambladas localmente
+B1275_S53	SRR29758876	New Zealand ST1 bovine	ST1	Bos taurus	bovine	New Zealand	2024	TRUE	ok	contig_2	57603	58328	+	56320	56949	-	654	653	13	Illumina-only	NCBI SRA reads reensambladas localmente
+GCA_001680935.1	GCA_001680935.1	Australia ST1 bovine	ST1	Bovine	milk	Australia: Victoria	2012	TRUE	ok	contig_12	261373	262098	-	262752	263381	+	654	653	12	Illumina-only	NCBI assembly directo
+cepa_18_barcode02		Uruguay ST2187	ST2187	Bos taurus	milk/subclinical_mastitis	Uruguay		TRUE	ok	contig_5	949685	950410	+	948402	949031	-	654	653	11	ONT-only	local Flye+Medaka
+GCA_054561055.1	GCA_054561055.1	Non-bovine ST1	ST1	Homo sapiens	Pleural fluid	South Korea: Gyeonggi-do, Anyang-si	2024-03-15	TRUE	ok	contig_3	8125	8850	+	6842	7471	-	654	653	10	Illumina-only	NCBI assembly directo
+GCA_054558875.1	GCA_054558875.1	Non-bovine ST1	ST1	Homo sapiens	whole blood	South Korea: Gyeonggi-do, Anyang-si	2024-05-02	TRUE	ok	contig_2	8115	8840	+	6832	7461	-	654	653	9	Illumina-only	NCBI assembly directo
+GCA_024360105.1	GCA_024360105.1	Non-bovine ST1	ST1	Homo sapiens	feces	Netherlands: UMCG Groningen	2008	TRUE	ok	contig_3	182065	182790	-	183444	184073	+	654	653	8	Illumina-only	NCBI assembly directo
+GCA_030734435.1	GCA_030734435.1	Non-bovine ST1	ST1	Canis lupus familiaris	Anterior nares	Australia: western New South Wales	2016-09-21	TRUE	ok	contig_1	8225	8950	+	6942	7571	-	654	653	7	Illumina-only	NCBI assembly directo
+GCA_030725665.1	GCA_030725665.1	Non-bovine ST1	ST1	Canis lupus familiaris	skin lesion	Australia: western New South Wales	2018-04-12	TRUE	ok	contig_43	12290	13015	-	13669	14298	+	654	653	6	Illumina-only	NCBI assembly directo
+GCA_024360085.1	GCA_024360085.1	Non-bovine ST1	ST1	Homo sapiens	Blood culture	Netherlands: UMCG Groningen	2014	TRUE	ok	contig_1	422972	423697	-	424351	424980	+	654	653	5	Illumina-only	NCBI assembly directo
+GCA_024360145.1	GCA_024360145.1	Non-bovine ST1	ST1	Homo sapiens	feces	Netherlands: UMCG Groningen	2008	TRUE	ok	contig_2	57636	58361	+	56353	56982	-	654	653	4	Illumina-only	NCBI assembly directo
+GCA_042840485.1	GCA_042840485.1	Non-bovine ST1	ST1	Homo sapiens	sputum	China:Shanghai	2018	TRUE	ok	contig_2	443248	443973	-	444627	445256	+	654	653	3	Illumina-only	NCBI assembly directo
+GCA_042841285.1	GCA_042841285.1	Non-bovine ST1	ST1	Homo sapiens	Skin/soft tissue	China:Shanghai	2020	TRUE	ok	contig_1	57525	58250	+	56242	56871	-	654	653	2	Illumina-only	NCBI assembly directo
+GCA_042841405.1	GCA_042841405.1	Non-bovine ST1	ST1	Homo sapiens	secretion	China:Shanghai	2008	TRUE	ok	contig_2	57522	58247	+	56239	56868	-	654	653	1	Illumina-only	NCBI assembly directo

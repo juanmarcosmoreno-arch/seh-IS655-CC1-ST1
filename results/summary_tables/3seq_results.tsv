@@ -1,0 +1,2 @@
+method	status	recipient_child	parent_1	parent_2	m	n	k	uncorrected_log10_p	dunn_sidak_corrected_p	p_value_method	minimum_recombinant_length_bp	breakpoint_intervals_alignment	breakpoint_intervals_cepa18_window	module_window_interval	module_inside_3seq_tract	interpretation
+3SEQ	completed	cepa18	GCA_031889545.1	23EV612	387	2257	2234	-264.8447	8.579801e-265	Hogan-Siegmund approximation	5218	15467-15487;24779-24791	15459-15479;20904-20913	17424-19432	TRUE	cepa18 is a significant mosaic of the ST2187-negative and ST1-like parents

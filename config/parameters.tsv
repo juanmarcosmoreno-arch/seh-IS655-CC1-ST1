@@ -1,0 +1,27 @@
+analysis	parameter	value	source	notes
+Filtlong	min_length	1000	scripts/01_genome_preparation/01_filtlong.sh
+Filtlong	keep_percent	90	scripts/01_genome_preparation/01_filtlong.sh
+Filtlong	target_bases	500000000	scripts/01_genome_preparation/01_filtlong.sh
+Medaka	model	r1041_e82_400bps_sup_v5.2.0	scripts/01_genome_preparation/03_medaka_polish.sh	R10.4.1 400 bps SUP chemistry
+CC1_phylogeny	IQ-TREE_model	GTR+F+ASC	manuscript Materials and Methods
+CC1_phylogeny	ultrafast_bootstrap	1000	manuscript Materials and Methods
+CC1_phylogeny	SH-aLRT	1000	manuscript Materials and Methods
+CC1_phylogeny	Gubbins_model	GTRGAMMA	manuscript / Gubbins default
+CC1_phylogeny	partial_locus_coding	unknown (?)	scripts/06_CC1_phylogeny/05_fitch_parsimony.py	Fitch parsimony; 5 partial loci coded as unresolved
+SCCmec	minimum_identity_pct	90	manuscript Materials and Methods
+SCCmec	minimum_coverage_pct	60	manuscript Materials and Methods	applied per HSP
+GC_windows	number_of_windows	10000	scripts/10_GC_codon_usage/02_GC3_window_test.py	random unique start positions
+GC_windows	window_size_bp	8571	scripts/10_GC_codon_usage/02_GC3_window_test.py	equals rlmH-cstA module length
+GC_windows	random_seed	2187	scripts/10_GC_codon_usage/02_GC3_window_test.py	set for reproducibility
+GC_windows	sampling_method	random.sample (unique starts; windows may overlap)	scripts/10_GC_codon_usage/02_GC3_window_test.py
+GENECONV	permutations	10000	manuscript Materials and Methods
+GENECONV	correction	Bonferroni	manuscript Materials and Methods
+3SEQ	triplet_comparisons	6	manuscript Materials and Methods	all orientations of 3 strains
+3SEQ	multiple_testing_correction	Dunn-Sidak	manuscript Materials and Methods
+IS655_boundaries	TSD_search_range_bp	2-14	scripts/03_IS655_characterization/01_scan_TIR_TSD.py
+IS655_identity	BLAST_min_identity_pct	95	scripts/03_IS655_characterization/	used for element identity across 46 loci
+ST1_near_fixation	NCBI_CLI_version	18.29.1	manuscript Materials and Methods	NCBI Datasets CLI
+ST1_near_fixation	records_retrieved	500	manuscript Materials and Methods	upper limit of NCBI query
+ST1_near_fixation	ST1_confirmed_by_MLST	91	results/summary_tables/ST2187_expanded_search.tsv	91/94 candidates were ST1; all 91 seh-positive
+Fitch_parsimony	gains	1	results/summary_tables/ancestral_state_summary.tsv	single ancestral gain in ST1/ST81 ancestor
+Fitch_parsimony	losses	0	results/summary_tables/ancestral_state_summary.tsv	v1 had 5 spurious losses from partial locus miscoding

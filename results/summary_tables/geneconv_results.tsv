@@ -1,0 +1,4 @@
+method	status	sequence_pair	gscale	permutations	global_permutation_p	permutation_p_interpretation	bonferroni_corrected_KA_p	aligned_begin	aligned_end	cepa18_begin	cepa18_end	aligned_length	polymorphic_sites	internal_mismatches
+GENECONV 1.81a	significant	cepa18;23EV612	0	10000	0.0000	<1/10001	9.93e-95	15468	20948	15460	18703	5481	1468	0
+GENECONV 1.81a	significant	cepa18;23EV612	0	10000	0.0000	<1/10001	3.23e-34	22214	24765	19579	20891	2552	553	0
+GENECONV 1.81a	significant	cepa18;23EV612	0	10000	0.0000	<1/10001	6.70e-24	20950	22212	18705	19577	1263	397	0

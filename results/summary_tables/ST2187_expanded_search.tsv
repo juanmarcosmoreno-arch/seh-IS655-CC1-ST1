@@ -1,0 +1,25 @@
+assembly	cohort	isolate	biosample	collection_date	geography	host	isolation_source	mlst_call	seh_present	seh_identity	seh_coverage_pct	is655_complete	is655_identity	is655_coverage_pct	seh_is655_adjacent	defense_block_complete	defense_block_identity	defense_block_coverage_pct	locus_state
+GCA_029101905.1	Souza_2023_multihost	6126a_19	SAMN19882222	2019-08-07	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032282325.1	Souza_2023_multihost	7852C_18	SAMN19882246	2018-10-12	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032282425.1	Souza_2023_multihost	9471A_17	SAMN19882265	2017-12-07	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032282445.1	Souza_2023_multihost	9470A_17	SAMN19882264	2017-12-07	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.968	100.00	ancestral_defense_block
+GCA_032282525.1	Souza_2023_multihost	1586A_18	SAMN19882172	2018-03-19	USA: northern New England	cow	milk	2187	False			False	84.098	27.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032282545.1	Souza_2023_multihost	9480a_18	SAMN19882268	2018-12-05	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032283305.1	Souza_2023_multihost	2757A_18	SAMN19882186	2018-04-17	USA: northern New England	cow	lung	2187	False			False	84.098	27.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032283365.1	Souza_2023_multihost	3113_3A_18	SAMN19882189	2018-05-03	USA: northern New England	cow	RF quarter	2187	False			False	84.887	26.00	False	True	99.960	100.00	ancestral_defense_block
+GCA_032283375.1	Souza_2023_multihost	2949_1B_18	SAMN19882188	2018-05-02	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.960	100.00	ancestral_defense_block
+GCA_032283525.1	Souza_2023_multihost	3669A_18	SAMN19882194	2018-05-22	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.960	100.00	ancestral_defense_block
+GCA_032283545.1	Souza_2023_multihost	3779B_18	SAMN19882196	2018-05-22	USA: northern New England	cow	RR quarter milk	2187	False			False	84.887	26.00	False	True	99.960	100.00	ancestral_defense_block
+GCA_032283605.1	Souza_2023_multihost	4640b_18	SAMN19882204	2018-06-20	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032283665.1	Souza_2023_multihost	4744b_18	SAMN19882206	2018-06-20	USA: northern New England	cow	milk left quarter	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032283955.1	Souza_2023_multihost	7967_3C_18	SAMN19882248	2018-10-12	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032284005.1	Souza_2023_multihost	8475a_18	SAMN19882252	2018-10-30	USA: northern New England	cow	milk	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_032284065.1	Souza_2023_multihost	8557_1a_18	SAMN19882254	2018-10-30	USA: northern New England	cow	milk LF quarter	2187	False			False	84.887	26.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_013404735.1	Naushad_2020_Canada				Canada	Bos taurus	milk	2187	False			False	80.503	13.00	False	False	99.930	35.00	unresolved_or_other
+GCA_013406015.1	Naushad_2020_Canada				Canada	Bos taurus	milk	2187	False			False	84.098	27.00	False	False	99.941	69.00	unresolved_or_other
+GCA_031889225.1	Maine_2022	UM3	SAMN36380950	2022-05-02	USA: Maine	Bos taurus	milk	2187	False			False	84.098	27.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_031889265.1	Maine_2022	UM7	SAMN36380954	2022-05-02	USA: Maine	Bos taurus	milk	2187	False			False	84.098	27.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_031889285.1	Maine_2022	UM4	SAMN36380951	2022-05-02	USA: Maine	Bos taurus	milk	2187	False			False	84.098	27.00	False	True	99.976	100.00	ancestral_defense_block
+GCA_031889365.1	Maine_2022	UM17	SAMN36380964	2022-06-12	USA: Maine	Bos taurus	milk	2187	False			False	84.098	27.00	False	True	99.968	100.00	ancestral_defense_block
+GCA_031889545.1	Maine_2022	UM26	SAMN36380973	2022-07-07	USA: Maine	Bos taurus	milk	2187	False			False	84.098	27.00	False	True	100.000	100.00	ancestral_defense_block
+cepa_18_barcode02	Uruguay_local_positive	cepa_18_barcode02			Uruguay			2187	True	100.000	100.00	True	100.000	100.00	True	False	99.968	75.00	complete_seh_IS655_module

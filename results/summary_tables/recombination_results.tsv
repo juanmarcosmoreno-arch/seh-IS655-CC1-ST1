@@ -1,0 +1,5 @@
+method	formal_result	key_statistic	interpretation
+3SEQ	significant	Dunn-Sidak P=8.579801e-265	cepa18 mosaic of negative ST2187 and ST1-like parent
+GENECONV	significant	global permutation P<1/10001; best BC KA P=9.93e-95	central cepa18-ST1 tract 15460-20891, concordant with 3SEQ
+Fisher	significant	OR=1778.653; P<1e-300	central ST1-like ancestry enrichment
+RDP5	not tested	NA	native executable unavailable

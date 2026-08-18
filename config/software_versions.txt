@@ -1,0 +1,50 @@
+# Software versions used in this study
+# Sources: conda-meta JSON files in .micromamba environments; tool self-report; script headers
+
+# Read processing and assembly
+Filtlong           0.3.1          (gridion_nanopore env)
+Flye               2.9.6          (gridion_nanopore env)
+Medaka             2.1.1          (gridion_medaka env)
+Medaka model       r1041_e82_400bps_sup_v5.2.0
+
+# Annotation
+Bakta              1.11.4         (gridion_bakta env)
+
+# Typing
+mlst               2.33.1         (gridion_mlst env)
+FastANI            1.34           (gridion_nanopore env)
+Mash               2.3            (gridion_nanopore env)
+BLAST+             2.16.0         (gridion_bakta / gridion_mlst envs)
+
+# Core-genome phylogeny
+Panaroo            1.6.1          (gridion_pangenome_pip env, pip dist-info)
+SKA2               0.5.1          (gridion_recombination env)
+Gubbins            3.4.3          (gridion_recombination env)
+IQ-TREE            3.1.2          (primary; gridion_pangenome_pip env)
+IQ-TREE            2.4.0          (Gubbins internal; gridion_recombination env)
+
+# SCCmec
+SCCmecFinder       Database dated 2017-11-17 (static BLAST DB; no versioned binary)
+                   Files: single_genes_database_20171117.fasta,
+                          whole_cassette_SCCmec_database_REFERENCE_20171117.fasta
+                   BLAST thresholds: identity >= 90%, query coverage >= 60%
+
+# Recombination
+3SEQ               1.9.1 beta build 260813   (tools/3seq/3seq)
+GENECONV           1.81a                      (tools/geneconv/geneconv)
+RDP5               NOT USED (Windows-only; documented as intentionally absent)
+
+# Languages
+R                  4.5.3          (gridion_recombination env)
+Python             3.10           (gridion_mlst env, main analysis scripts)
+Python             3.9            (gridion_medaka env)
+
+# R packages (key)
+ggtree             TODO           (installed in system R 4.5.1 session)
+ape                TODO
+ggplot2            4.0.0          (confirmed from session; breaking changes vs 3.x)
+dplyr              TODO
+dendropy           TODO           (Python; gridion_mlst env)
+scipy              TODO           (Python)
+numpy              TODO           (Python)
+openpyxl           TODO           (Python; installed for supplementary tables)

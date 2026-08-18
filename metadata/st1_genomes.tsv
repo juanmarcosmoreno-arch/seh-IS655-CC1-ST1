@@ -1,0 +1,49 @@
+sample_id	accession	sequence_type	clonal_complex	host	country	collection_year	source	local_or_public	sequencing_platform	seh_status	IS655_status	module_status	dataset	notes
+GCA_042841385.1	GCA_042841385.1	ST1	NA	Homo sapiens	China:Shanghai	2017	urine	public	NA	NA	present	NA	Non-bovine ST1	
+GCF_051990565.1	GCF_051990565.1	ST1	NA	not_available	China: Shanghai	2018	bulk tank milk	public	NA	NA	present	NA	China ST1 bovine	
+GCF_051990445.1	GCF_051990445.1	ST1	NA	not_available	China: Shanghai	2018	bulk tank milk	public	NA	NA	present	NA	China ST1 bovine	
+GCF_051990345.1	GCF_051990345.1	ST1	NA	not_available	China: Shanghai	2018	bulk tank milk	public	NA	NA	present	NA	China ST1 bovine	
+GCF_051259035.1	GCF_051259035.1	ST1	NA	not_available	China: Shanghai	2018	bulk tank milk	public	NA	NA	NA	partial	China ST1 bovine	
+cepa_107_barcode19		ST1	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST1 bovine	
+cepa_202_barcode21		ST1	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST1 bovine	
+cepa_30_barcode06		ST1	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST1 bovine	
+cepa_98_barcode16		ST1	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST1 bovine	
+cepa_52_barcode09		ST1	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST1 bovine	
+cepa_21_barcode03		ST1	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST1 bovine	
+cepa_17_barcode01		ST1	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST1 bovine	
+GCA_029415515.1	GCA_029415515.1	ST1	NA		Spain	2021-10-04	Sus scrofa	public	NA	NA	present	NA	Non-bovine ST1	
+B935_S407	SRR29758790	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B414_S153	SRR29758407	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1237_S41	SRR29758888	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1225_S36	SRR29758893	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1281_S57	SRR29758872	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1611_S419	SRR29758423	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+LIC683_S687	SRR29758914	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+GCA_001681155.1	GCA_001681155.1	ST1	NA	Bovine	Australia: Victoria	2014	milk filter	public	NA	NA	present	NA	Australia ST1 bovine	
+B1287_S62	SRR29758696	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B916_S394	SRR29759131	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1572_S384	SRR29758644	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+GCF_041729565.1	GCF_041729565.1	ST1	NA	Bos taurus	New Zealand: Te Kuiti	2020	milk	public	NA	NA	NA	partial	New Zealand ST1 bovine	
+23EV612	CP160024	ST1	NA	Bos taurus	New Zealand	2023	milk/mastitis	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B715_S678	SRR29758568	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1247_S43	SRR29758886	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1822_S7_L001	SRR29759017	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1180_S15	SRR29759077	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1512_S573	SRR29758869	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1254_S46	SRR29758882	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1055_S447	SRR29759140	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B842_S737	SRR29758539	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+LIC673_S677	SRR29758702	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+B1275_S53	SRR29758876	ST1	NA	Bos taurus	New Zealand	2024	bovine	public	NA	NA	present	NA	New Zealand ST1 bovine	
+GCA_001680935.1	GCA_001680935.1	ST1	NA	Bovine	Australia: Victoria	2012	milk	public	NA	NA	present	NA	Australia ST1 bovine	
+cepa_18_barcode02		ST2187	NA	Bos taurus	Uruguay		milk/subclinical_mastitis	local	NA	NA	present	NA	Uruguay ST2187	
+GCA_054561055.1	GCA_054561055.1	ST1	NA	Homo sapiens	South Korea: Gyeonggi-do, Anyang-si	2024-03-15	Pleural fluid	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_054558875.1	GCA_054558875.1	ST1	NA	Homo sapiens	South Korea: Gyeonggi-do, Anyang-si	2024-05-02	whole blood	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_024360105.1	GCA_024360105.1	ST1	NA	Homo sapiens	Netherlands: UMCG Groningen	2008	feces	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_030734435.1	GCA_030734435.1	ST1	NA	Canis lupus familiaris	Australia: western New South Wales	2016-09-21	Anterior nares	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_030725665.1	GCA_030725665.1	ST1	NA	Canis lupus familiaris	Australia: western New South Wales	2018-04-12	skin lesion	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_024360085.1	GCA_024360085.1	ST1	NA	Homo sapiens	Netherlands: UMCG Groningen	2014	Blood culture	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_024360145.1	GCA_024360145.1	ST1	NA	Homo sapiens	Netherlands: UMCG Groningen	2008	feces	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_042840485.1	GCA_042840485.1	ST1	NA	Homo sapiens	China:Shanghai	2018	sputum	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_042841285.1	GCA_042841285.1	ST1	NA	Homo sapiens	China:Shanghai	2020	Skin/soft tissue	public	NA	NA	present	NA	Non-bovine ST1	
+GCA_042841405.1	GCA_042841405.1	ST1	NA	Homo sapiens	China:Shanghai	2008	secretion	public	NA	NA	present	NA	Non-bovine ST1	

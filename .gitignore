@@ -1,0 +1,70 @@
+# Oxford Nanopore raw data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.pod5
+*.fast5
+*.blow5
+
+# Alignment / mapping
+*.bam
+*.bam.bai
+*.sam
+*.cram
+
+# Compressed genomes
+*.fasta.gz
+*.fa.gz
+*.fna.gz
+
+# Large databases
+bakta_db/
+blastdb/
+isfinder_db/
+sccmecfinder_db/
+checkm2_db/
+
+# Temporary / build
+tmp/
+temp/
+.snakemake/
+logs/raw/
+__pycache__/
+*.pyc
+*.pyo
+
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Credentials and secrets
+.env
+credentials*
+secrets*
+*.pem
+*.key
+*_rsa
+*_rsa.pub
+config.local.*
+
+# Large intermediate files (keep small TSV outputs only)
+*.msh
+*.skf
+*.pod5
+gubbins/
+gubbins_escalated/
+panaroo_core/
+
+# Zenodo archive (managed separately)
+*.zip
+*.tar.gz
