@@ -1,0 +1,9 @@
+negative_reference	reference_role	method	result	p_value	min_recombinant_length_bp	breakpoints_cepa18_window	alignment_length_bp
+GCA_031889545.1	original	3SEQ	significant	8.579801e-265	5218	15459-15479;20904-20913	47937
+GCA_031889545.1	original	GENECONV	significant	9.930e-95	5432	15460-20891	47937
+GCA_031889265.1	alternative	3SEQ	significant	1.501841e-262	5220	15459-15479;20904-20913	47935
+GCA_031889265.1	alternative	GENECONV	significant	1.030e-94	5432	15460-20891	47935
+GCA_031889285.1	alternative	3SEQ	significant	5.145583e-264	5220	15459-15479;20904-20913	47935
+GCA_031889285.1	alternative	GENECONV	significant	9.450e-95	5432	15460-20891	47935
+GCA_031889365.1	alternative	3SEQ	significant	7.549367e-265	5220	15459-15479;20904-20913	47936
+GCA_031889365.1	alternative	GENECONV	significant	9.450e-95	5432	15460-20891	47936

@@ -15,9 +15,11 @@ assemblies, public accessions) using the scripts in this repository:
 - **Jahnen 2025 read-screen** (`05_CC1_distribution/01_PRJNA1263585_read_screen.py`): public FASTQ from PRJNA1263585.
 - **CC1 phylogeny** (`06_CC1_phylogeny/`): from deposited assemblies; genome FASTA → SKA2 → Gubbins → IQ-TREE.
 - **Fitch parsimony** (`06_CC1_phylogeny/05_fitch_parsimony.py`): from CC1 tree + `CC1_module_distribution.tsv`.
+- **Fitch sensitivity analysis, Table S17** (`06_CC1_phylogeny/06_fitch_sensitivity.py`): from CC1 tree + module presence TSV + outgroup tip list.
 - **SCCmec subtyping** (`07_SCCmec_analysis/01_sccmec_subtyping.py`): from deposited assemblies + static BLAST DB.
 - **ST2187 expanded search** (`08_ST2187_comparison/06_expanded_ST2187_search.py`): from deposited assemblies + public NCBI downloads.
 - **Recombination analyses** (`09_recombination/`): from three-way alignment FASTA (`flanking_alignment.fasta`).
+- **Recombination robustness, Table S18** (`09_recombination/04_recombination_robustness.py`): from Bakta-annotated FASTA/GFF3 of cepa18, 23EV612, and 3 alternative ST2187-negative references; requires local `mafft`, `3seq`, and `geneconv` binaries (not redistributed in this repo).
 - **GC and codon usage** (`10_GC_codon_usage/`): from 23EV612 Bakta TSV + genome FASTA.
 - **Temporal signal** (`11_temporal_signal/`): from CC1 tree + dated metadata.
 - **All supplementary tables** (`12_figures_tables/generate_supplementary_tables.py`): from results TSVs.

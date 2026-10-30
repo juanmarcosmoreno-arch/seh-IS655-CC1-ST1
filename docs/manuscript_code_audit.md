@@ -46,6 +46,8 @@ Classification:
 | 31 | Temporal signal | `11_temporal_signal/01_temporal_signal.py` | CC1 tree + dated metadata | `results/summary_tables/temporal_signal_summary.tsv` | COMPLETE | 10,000 date randomizations |
 | 32 | Supplementary figures | See `12_figures_tables/` | Various TSVs | `final_paper_figures/` (local) | COMPLETE | Figures S1–S3 |
 | 33 | Supplementary tables | `12_figures_tables/generate_supplementary_tables.py` | All results TSVs | `supplementary_tables_FEMSLE.xlsx` | COMPLETE | Tables S1–S16 |
+| 34 | Fitch sensitivity (rooting × partial-tip coding) | `06_CC1_phylogeny/06_fitch_sensitivity.py` | CC1 tree + module presence TSV + outgroup tip list | `results/summary_tables/fitch_sensitivity_summary.tsv` | COMPLETE | Table S17. Added 2026-10-30 (reviewer-response script not originally copied into this repo; see note below) |
+| 35 | Recombination robustness to negative-reference choice | `09_recombination/04_recombination_robustness.py` | 3-way alignment inputs for 3 alternative ST2187-negative references | `results/summary_tables/recombination_robustness_summary.tsv` | COMPLETE | Table S18. Added 2026-10-30 (reviewer-response script not originally copied into this repo; see note below) |
 
 ---
 
@@ -53,10 +55,10 @@ Classification:
 
 | Status | Count |
 |--------|-------|
-| COMPLETE | 27 / 33 |
-| PARTIAL | 5 / 33 |
-| MISSING | 0 / 33 |
-| RECONSTRUCTED | 0 / 33 |
+| COMPLETE | 30 / 35 |
+| PARTIAL | 5 / 35 |
+| MISSING | 0 / 35 |
+| RECONSTRUCTED | 0 / 35 |
 
 ---
 
@@ -69,6 +71,19 @@ Classification:
 | 3 | Bakta annotation | Bakta database (large; ~30 GB) not in repo. Annotated files (GFF3/TSV) available locally and via genome deposit. |
 | 5 | FastANI | No dedicated wrapper script for this analysis in this repo; FastANI is called as part of the overnight pipeline. |
 | 27 | IS655 outside-CC1 screen | Script `132_retry_is655_outside_cc1.py` not copied into this repo structure. Results TSV available locally. |
+
+---
+
+## Note on #34 / #35 (added 2026-10-30)
+
+`142_fitch_sensitivity.py` and `143_recombination_robustness.py` (the scripts behind
+Tables S17 and S18) were run during peer review but were not copied into this
+repository at initial publication — the public repo and its own audit table did not
+previously cover these two tables at all. Both scripts were located in the original
+project directory, re-run, and verified to reproduce Tables S17 and S18 exactly
+(byte-identical to the submitted supplementary Excel file, modulo line endings)
+before being added here as `06_CC1_phylogeny/06_fitch_sensitivity.py` and
+`09_recombination/04_recombination_robustness.py`.
 
 ---
 

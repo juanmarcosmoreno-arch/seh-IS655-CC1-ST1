@@ -1,0 +1,7 @@
+rooting	partial_coding	n_partial_tips	parsimonious_gains	parsimonious_losses
+midpoint	unknown	5	1	0
+midpoint	absent	5	1	5
+midpoint	present	5	1	0
+outgroup	unknown	5	1	0
+outgroup	absent	5	1	5
+outgroup	present	5	1	0
