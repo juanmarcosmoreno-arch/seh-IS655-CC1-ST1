@@ -5,10 +5,13 @@ type: software
 authors:
   - family-names: "Moreno"
     given-names: "Juan"
-    orcid: "TODO"
-  - name: "TODO: add remaining authors"
-version: 1.0.0
-date-released: "2026-TODO"
+    orcid: "https://orcid.org/0009-0002-8116-2871"
+  # TODO: add remaining authors (Megrián, Baserga, Echeverria, Iribarnegaray) once
+  # the final author list/order is confirmed. Omitted rather than left as a
+  # placeholder entry: an invalid "TODO" orcid/date previously made Zenodo's
+  # archiving fail with "Citation metadata load failed" (see docs/release_checklist.md).
+version: 1.1.1
+date-released: "2026-10-30"
 repository-code: "https://github.com/juanmarcosmoreno-arch/seh-IS655-CC1-ST1"
 url: "https://github.com/juanmarcosmoreno-arch/seh-IS655-CC1-ST1"
 # doi: TODO — 10.5281/zenodo.21066330 was removed on 2026-10-30: that DOI archives
