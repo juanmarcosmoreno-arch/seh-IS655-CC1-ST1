@@ -58,7 +58,7 @@ PANELS = [
         del_pos  = None,
     ),
     dict(
-        title    = "IS655-like (ST1 bovine) — all 46 loci identical",
+        title    = "IS655-like (ST1 bovine) — 42/46 loci identical",
         subtitle = "57.4% nt identity to IS655 ORF1  |  49.0% nt identity to IS655 ORF2  |  1,211 bp",
         orf1     = (1, 397),    orf1_color = C_ORF1_CAN, orf1_tcol = "#0D47A1",
         orf2     = (361, 1211), orf2_color = C_ORF2_CAN, orf2_tcol = "#7B1FA2",
@@ -136,7 +136,7 @@ def draw_panel(ax, cfg):
         fc=C_OVL, ec="white", alpha=0.90, zorder=4
     ))
     ax.text((ov0 + ov1) / 2, y0 - ARROW_H / 2 - 0.13,
-            f"overlap\n{ov1-ov0} bp",
+            f"overlap: {ov1-ov0+1} bp",
             ha="center", va="top", fontsize=6.5, color=C_OVL)
 
     # ── A7G / No A7G ────────────────────────────────────────────────────────
