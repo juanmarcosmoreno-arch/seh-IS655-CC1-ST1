@@ -18,18 +18,18 @@ Steps required before creating the public GitHub release.
       settings (https://zenodo.org/account/settings/github/) — done 2026-10-30
       (was already toggled ON, but the account's GitHub sync was 2 months stale;
       re-synced manually)
-- [ ] Create Zenodo archive after a GitHub release of **this** repository
+- [x] Create Zenodo archive after a GitHub release of **this** repository
       (correction, 2026-10-30: a DOI, `10.5281/zenodo.21066330`, was previously
       added here but was verified to archive a different, earlier repository,
       `seh-st1-mobile-element-reproducibility`, not this one; it was removed from
       README.md/CITATION.cff pending a correct archive)
-      — root cause found 2026-10-30: every release of this repo (v1.0.0, v1.1.0,
-      v1.1.1) shows "Failed" in Zenodo's GitHub integration page, error
-      "Citation metadata load failed". CITATION.cff had `orcid: "TODO"` and
-      `date-released: "2026-TODO"`, which fail CFF schema validation (orcid must
-      be a real ORCID URL; date-released must be ISO 8601). Fixed in this commit;
-      a new release is needed to confirm archiving now succeeds.
-- [ ] Add the correct Zenodo DOI to README.md and CITATION.cff
+      — root cause found and fixed 2026-10-30: every release of this repo
+      (v1.0.0, v1.1.0, v1.1.1) showed "Failed" in Zenodo's GitHub integration
+      page, error "Citation metadata load failed", because `CITATION.cff` had
+      `orcid: "TODO"` and `date-released: "2026-TODO"` (invalid under the CFF
+      schema). Fixed, then release v1.1.2 archived successfully:
+      concept DOI 10.5281/zenodo.23812504, version DOI 10.5281/zenodo.23812505.
+- [x] Add the correct Zenodo DOI to README.md and CITATION.cff (done 2026-10-30)
 - [ ] Add data availability statement with BioProject, SRA, and the correct Zenodo DOI
       to the manuscript (the submitted Title Page currently cites the wrong DOI too)
 

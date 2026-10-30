@@ -127,13 +127,17 @@ isolate (cepa_18) will be deposited at:
 BioProject:           PRJNA1525248 (registered; embargoed until publication — not yet public at NCBI)
 SRA accessions:       TODO
 Genome assemblies:    TODO
-Zenodo archive:       TODO (pending — see note below)
+Zenodo archive:       https://doi.org/10.5281/zenodo.23812504 (concept DOI; always
+                       resolves to the latest version. Current version v1.1.2:
+                       https://doi.org/10.5281/zenodo.23812505)
 ```
 
-> **Note on the Zenodo archive (2026-10-30):** a DOI (`10.5281/zenodo.21066330`) was
-> previously added here and in `CITATION.cff`, but it in fact archives a different,
-> earlier GitHub repository (`seh-st1-mobile-element-reproducibility`), not this one.
-> It has been removed pending a correct Zenodo archive of this repository.
+> **Note on the Zenodo archive (2026-10-30):** an earlier DOI (`10.5281/zenodo.21066330`)
+> was mistakenly cited here and in `CITATION.cff` — it archives a different, earlier
+> repository (`seh-st1-mobile-element-reproducibility`), not this one. It was removed,
+> and this repository's own Zenodo↔GitHub archiving (previously failing on every
+> release with "Citation metadata load failed", due to invalid placeholder values in
+> `CITATION.cff`) was fixed and now correctly archives this repository above.
 
 ### Public genomes
 
@@ -154,8 +158,7 @@ Key public datasets used:
 If you use this repository or the data within it, please cite the associated manuscript
 (see `CITATION.cff` for machine-readable citation metadata).
 
-A Zenodo DOI badge will be added here once this repository has its own correct
-Zenodo archive (see note in Data availability above).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23812504.svg)](https://doi.org/10.5281/zenodo.23812504)
 
 ---
 

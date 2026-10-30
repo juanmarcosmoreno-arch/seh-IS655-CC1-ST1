@@ -10,13 +10,11 @@ authors:
   # the final author list/order is confirmed. Omitted rather than left as a
   # placeholder entry: an invalid "TODO" orcid/date previously made Zenodo's
   # archiving fail with "Citation metadata load failed" (see docs/release_checklist.md).
-version: 1.1.1
+version: 1.1.2
 date-released: "2026-10-30"
 repository-code: "https://github.com/juanmarcosmoreno-arch/seh-IS655-CC1-ST1"
 url: "https://github.com/juanmarcosmoreno-arch/seh-IS655-CC1-ST1"
-# doi: TODO — 10.5281/zenodo.21066330 was removed on 2026-10-30: that DOI archives
-# a different, earlier repository (seh-st1-mobile-element-reproducibility), not
-# this one. Add the correct DOI once this repository has its own Zenodo archive.
+doi: "10.5281/zenodo.23812504"
 abstract: >
   Scripts, analysis commands, metadata and processed data supporting the manuscript
   "The seh enterotoxin gene resides in a conserved IS655-like genomic module in
