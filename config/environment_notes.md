@@ -36,7 +36,7 @@ were updated to use `scale_color_manual` / `scale_fill_manual` with hollow shape
 ## Reproducibility notes for local genomes
 
 Raw Nanopore reads for local Uruguay isolates are deposited as:
-- BioProject: TODO
+- BioProject: PRJNA1525248 (registered; embargoed until publication)
 - SRA accessions: TODO
 
 The assembled and annotated genomes (Flye + Medaka + Bakta) are deposited as:

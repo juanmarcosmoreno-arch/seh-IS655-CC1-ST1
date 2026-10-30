@@ -124,7 +124,7 @@ Raw Nanopore reads and assembled/annotated genomes for 7 local ST1 isolates
 isolate (cepa_18) will be deposited at:
 
 ```
-BioProject:           TODO
+BioProject:           PRJNA1525248 (registered; embargoed until publication — not yet public at NCBI)
 SRA accessions:       TODO
 Genome assemblies:    TODO
 Zenodo archive:       TODO (pending — see note below)

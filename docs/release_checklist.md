@@ -8,7 +8,10 @@ Steps required before creating the public GitHub release.
 - [ ] Obtain SRA accessions; update `metadata/genome_metadata.tsv`
 - [ ] Deposit assembled/annotated genomes for 8 local isolates
 - [ ] Obtain GenBank/ENA assembly accessions; update all relevant metadata files
-- [ ] Create BioProject; add accession to README.md Data Availability section
+- [x] Create BioProject; add accession to README.md Data Availability section
+      (PRJNA1525248, added 2026-10-30 — registered but embargoed until publication,
+      confirmed against the manuscript Title Page; verified via NCBI as a real,
+      non-public BioProject ID, not fabricated)
 - [ ] Verify all public genome accessions in `metadata/public_accessions.tsv` are correct
 - [ ] Add GitHub repository URL to README.md, CITATION.cff
 - [ ] Enable Zenodo↔GitHub archiving for **this repository** in the Zenodo account
