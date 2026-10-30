@@ -127,8 +127,13 @@ isolate (cepa_18) will be deposited at:
 BioProject:           TODO
 SRA accessions:       TODO
 Genome assemblies:    TODO
-Zenodo archive:       https://doi.org/10.5281/zenodo.21066330
+Zenodo archive:       TODO (pending — see note below)
 ```
+
+> **Note on the Zenodo archive (2026-10-30):** a DOI (`10.5281/zenodo.21066330`) was
+> previously added here and in `CITATION.cff`, but it in fact archives a different,
+> earlier GitHub repository (`seh-st1-mobile-element-reproducibility`), not this one.
+> It has been removed pending a correct Zenodo archive of this repository.
 
 ### Public genomes
 
@@ -149,7 +154,8 @@ Key public datasets used:
 If you use this repository or the data within it, please cite the associated manuscript
 (see `CITATION.cff` for machine-readable citation metadata).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21066330.svg)](https://doi.org/10.5281/zenodo.21066330)
+A Zenodo DOI badge will be added here once this repository has its own correct
+Zenodo archive (see note in Data availability above).
 
 ---
 

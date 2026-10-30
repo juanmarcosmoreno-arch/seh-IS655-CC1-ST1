@@ -11,9 +11,17 @@ Steps required before creating the public GitHub release.
 - [ ] Create BioProject; add accession to README.md Data Availability section
 - [ ] Verify all public genome accessions in `metadata/public_accessions.tsv` are correct
 - [ ] Add GitHub repository URL to README.md, CITATION.cff
-- [ ] Create Zenodo archive after GitHub release v1.0.0
-- [ ] Add Zenodo DOI to README.md and CITATION.cff
-- [ ] Add data availability statement with BioProject, SRA, and Zenodo DOI to manuscript
+- [ ] Enable Zenodo↔GitHub archiving for **this repository** in the Zenodo account
+      settings (https://zenodo.org/account/settings/github/) — must be done by the
+      account owner; cannot be enabled remotely
+- [ ] Create Zenodo archive after a GitHub release of **this** repository
+      (correction, 2026-10-30: a DOI, `10.5281/zenodo.21066330`, was previously
+      added here but was verified to archive a different, earlier repository,
+      `seh-st1-mobile-element-reproducibility`, not this one; it was removed from
+      README.md/CITATION.cff pending a correct archive)
+- [ ] Add the correct Zenodo DOI to README.md and CITATION.cff
+- [ ] Add data availability statement with BioProject, SRA, and the correct Zenodo DOI
+      to the manuscript (the submitted Title Page currently cites the wrong DOI too)
 
 ## Table S11
 
